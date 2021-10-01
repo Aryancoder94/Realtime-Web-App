@@ -1,0 +1,29 @@
+
+.heading{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: black;
+    box-shadow: 5px,5px,5px yellowgreen;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 13px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: crimson;
+}
+.copy_right_footer{
+    position: fixed;
+    color: hotpink;
+    background-color: mediumpurple;
+    line-height: 3;
+    bottom: 0;
+    width: 100%;
+    text-align: left;
+}
+canvas{
+    border: 5px dotted black ;
+    border-radius: 20px;
+    box-shadow: 10px,10px,10px blue;
+}
